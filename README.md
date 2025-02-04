@@ -1,10 +1,15 @@
-# AWS Repo Template
+# Exemplos Terraform com AWS
 
-Repo template for use with AWS CLI, compatible with Codespaces, GitPod and DevContainer extension (for VSCode).
+### [Exemplo de código IaC](/exemplos/exemplo-iac/)
 
-Template de repositório para usar com AWS CLI, compatível com Codespaces, GitPod e extensão DevContainer (para VSCode).
+### [Exemplo de código com mais de um provider](/exemplos/exemplo-provider/)
 
-## Extensões
+### [Criar Instância EC2](/exemplos/criarInstancia/)
+
+### [Criar Múltiplas Instâncias](/exemplos/criarMultiplasInstancias/)
+
+
+## Extensões para Codespaces/GitPod
 * AWS CLI
 * Draw.io Integration
 * Git Graph
