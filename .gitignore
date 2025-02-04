@@ -1,0 +1,19 @@
+# Arquivos de estado do Terraform
+*.tfstate
+*.tfstate.backup
+
+# Diretório de cache do Terraform
+.terraform/
+
+# Arquivos de lock do Terraform
+*.terraform.lock.hcl
+
+# Arquivos de variáveis contendo dados sensíveis (não versione tfvars reais)
+*.tfvars
+*.tfvars.json
+
+# Crash logs do Terraform
+crash.log
+
+# Logs e saída local
+*.log
